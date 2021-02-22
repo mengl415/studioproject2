@@ -1,3 +1,36 @@
-body{
-    font-family: 'Baskerville', serif;
-}
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: Helvetica, arial, sans-serif;
+    margin: 2em;
+  }
+  
+  h1 {
+    color: red;
+  }
+  
+  h2 {
+    margin-top: 2em; 
+  }
+  
+  .question {
+    display: flex;
+    margin-top: 2em;
+    text-align: center;
+  }
+  
+  
+  .result-button {
+    margin-top: 5rem;
+  }
+  
+  button {
+    background: none;
+    outline: none;
+    border: none;
+    opacity: .8;
+  }
+  
+  button:focus {
+    font-weight: bold;
+  }
