@@ -1,12 +1,12 @@
 /* CSS files add styling rules to your content */
 
 body {
-    font-family: Helvetica, arial, sans-serif;
+    font-family: 'Baskervville', serif;
     margin: 2em;
   }
   
   h1 {
-    color: red;
+    color: black;
   }
   
   h2 {
@@ -33,4 +33,140 @@ body {
   
   button:focus {
     font-weight: bold;
+  }
+
+  .answer-choice{
+      width: 12.5rem;
+  }
+
+  #q1a1 {
+    font-family:'Baskervville', serif;
+    text-align: left;
+    overflow-wrap: break-word;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: .5rem;
+  }
+
+  #q1a2{
+    font-family:'Baskervville', serif;
+    text-align: left;
+    width: 12.75rem;
+    overflow-wrap: break-word;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: .5rem;
+  }
+
+  #q1a3{
+    font-family:'Baskervville', serif;
+    text-align: left;
+    width: 12.5rem;
+    overflow-wrap: break-word;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: .5rem;
+  }
+
+  #q1a4{
+    font-family:'Baskervville', serif;
+    text-align: left;
+    width: 12.5rem;
+    overflow-wrap: break-word;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: .5rem;
+  }
+
+  #q2a1 {
+    font-family:'Baskervville', serif;
+    text-align: left;
+    width: 12.5rem;
+    overflow-wrap: break-word;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: .5rem;
+  }
+
+  #q2a2{
+    font-family:'Baskervville', serif;
+    text-align: left;
+    width: 12.75rem;
+    overflow-wrap: break-word;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: .5rem;
+  }
+
+  #q2a3{
+    font-family:'Baskervville', serif;
+    text-align: left;
+    width: 12.5rem;
+    overflow-wrap: break-word;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: .5rem;
+  }
+
+  #q2a4{
+    font-family:'Baskervville', serif;
+    text-align: left;
+    width: 12.5rem;
+    overflow-wrap: break-word;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: .5rem;
+  }
+
+  #q3a1 {
+    font-family:'Baskervville', serif;
+    text-align: left;
+    width: 12.5rem;
+    overflow-wrap: break-word;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: .5rem;
+  }
+
+  #q3a2{
+    font-family:'Baskervville', serif;
+    text-align: left;
+    width: 12.75rem;
+    overflow-wrap: break-word;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: .5rem;
+  }
+
+  #q3a3{
+    font-family:'Baskervville', serif;
+    text-align: left;
+    width: 12.5rem;
+    overflow-wrap: break-word;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: .5rem;
+  }
+
+  #q3a4{
+    font-family:'Baskervville', serif;
+    text-align: left;
+    width: 12.5rem;
+    overflow-wrap: break-word;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: .5rem;
+  }
+
+  #result{
+      text-decoration: none;
+      color: black;
+  }
+
+  .paragraph{
+      font-size: 1rem;
+      font-family:'Baskervville', serif;
+      color: black;
+      width: 60rem;
+      padding-left: 8rem;
   }
