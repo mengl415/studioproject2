@@ -60,10 +60,10 @@ let result = document.querySelector("#result");
 
 // This is the part that links each page to the result page
 function updateResult() {
-  if (pageOneResult >= 2 && pageOneResult > pageTwoResult) {
+  if (pageOneResult >= 2 && (pageOneResult > pageTwoResult)) {
     result.innerHTML = "Continue";
     result.href = "result1.html";
-  } else if (pageTwoResult >= 2) {
+  } else if (pageTwoResult >= 2 && (pageTwoResult > pageOneResult) ) {
     result.innerHTML = "Continue";
     result.href = "result2.html";
   } else {

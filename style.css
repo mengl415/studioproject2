@@ -40,6 +40,10 @@ body {
       width: 20.5rem;
   }
 
+  .largeText{
+    font-size: 3rem;
+  }
+
   #q1a1 {
     font-family:'Baskervville', serif;
     text-align: left;
