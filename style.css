@@ -7,6 +7,7 @@ body {
   
   h1 {
     color: black;
+    font-size: 3rem;
   }
   
   h2 {
@@ -37,16 +38,24 @@ body {
   }
 
   .answer-choice{
-      width: 20.5rem;
+      width: 25.5rem;
+      
   }
 
   .largeText{
-    font-size: 3rem;
+    font-size: 2rem;
+  }
+
+  .italicText{
+    font-style: italic;
+    font-weight: 400;
+    font-size: 1.5rem;
   }
 
   #q1a1 {
     font-family:'Baskervville', serif;
     text-align: left;
+    font-size: 1rem;
     overflow-wrap: break-word;
     padding-left: 8rem;
     padding-right: 1rem;
@@ -56,13 +65,16 @@ body {
   #q1a2{
     font-family:'Baskervville', serif;
     text-align: left;
-    padding-left: 6.4rem;
+    font-size: 1rem;
+    padding-left: 4rem;
+    padding-right: 1rem;
     padding-bottom: .5rem;
   }
 
   #q1a3{
     font-family:'Baskervville', serif;
     text-align: left;
+    font-size: 1rem;
     overflow-wrap: break-word;
     padding-right: 1rem;
     padding-left: 8rem;
@@ -72,6 +84,7 @@ body {
   #q1a4{
     font-family:'Baskervville', serif;
     text-align: left;
+    font-size: 1rem;
     overflow-wrap: break-word;
     padding-right: 1rem;
     padding-left: 8rem;
@@ -82,8 +95,9 @@ body {
     font-family:'Baskervville', serif;
     text-align: left;
     overflow-wrap: break-word;
-    padding-right: 1rem;
-    padding-left: 1.6rem;
+    font-size: 1rem;
+    padding-right: 3.3rem;
+    padding-left: 0rem;
     padding-bottom: .5rem;
   }
 
@@ -91,6 +105,7 @@ body {
     font-family:'Baskervville', serif;
     text-align: left;
     overflow-wrap: break-word;
+    font-size: 1rem;
     padding-right: 1rem;
     padding-left: 8rem;
     padding-bottom: .5rem;
@@ -100,6 +115,7 @@ body {
     font-family:'Baskervville', serif;
     text-align: left;
     overflow-wrap: break-word;
+    font-size: 1rem;
     padding-right: 1rem;
     padding-left: 8rem;
     padding-bottom: .5rem;
@@ -109,7 +125,8 @@ body {
     font-family:'Baskervville', serif;
     text-align: left;
     overflow-wrap: break-word;
-    padding-right: 1rem;
+    font-size: 1rem;
+    padding-right: 2rem;
     padding-left: 8rem;
     padding-bottom: .5rem;
   }
@@ -118,7 +135,8 @@ body {
     font-family:'Baskervville', serif;
     text-align: left;
     overflow-wrap: break-word;
-    padding-right: 1rem;
+    font-size: 1rem;
+    padding-right: 2.3rem;
     padding-left: 8rem;
     padding-bottom: .5rem;
   }
@@ -127,6 +145,7 @@ body {
     font-family:'Baskervville', serif;
     text-align: left;
     overflow-wrap: break-word;
+    font-size: 1rem;
     padding-right: 1rem;
     padding-left: 8rem;
     padding-bottom: .5rem;
@@ -136,15 +155,18 @@ body {
     font-family:'Baskervville', serif;
     text-align: left;
     overflow-wrap: break-word;
-    padding-right: 1rem;
+    font-size: 1rem;
+    padding-right: 1.8rem;
     padding-left: 8rem;
     padding-bottom: .5rem;
+    width: 26rem;
   }
 
   #q3a4{
     font-family:'Baskervville', serif;
     text-align: left;
     overflow-wrap: break-word;
+    font-size: 1rem;
     padding-right: 1rem;
     padding-left: 8rem;
     padding-bottom: .5rem;
