@@ -41,7 +41,11 @@ body {
   
   
   .result-button {
-    margin-top: 5rem;
+    text-align: left;
+  padding-left: 16rem;
+  margin-top: 5rem;
+  padding-right: 0rem;
+  width: 22rem;
   }
   
   button {
