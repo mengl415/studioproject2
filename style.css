@@ -23,6 +23,14 @@ body {
   h2 {
     margin-top: 2em; 
   }
+
+  .title {
+    padding-left: 8rem;
+  }
+  
+  .statement {
+    padding-left: 10rem;
+  }
   
   .question {
     display: flex;
