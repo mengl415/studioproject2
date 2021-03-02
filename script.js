@@ -23,20 +23,20 @@ let q3a4 = document.getElementById("q3a4");
 
 
 //Add Event Listeners + page score
-q1a1.addEventListener("click", pageOne);
+q1a1.addEventListener("click", pageTwo);
 q1a2.addEventListener("click", pageTwo);
-q1a3.addEventListener("click", pageTwo);
+q1a3.addEventListener("click", pageOne);
 q1a4.addEventListener("click", pageOne);
 
-q2a1.addEventListener("click", pageOne);
+q2a1.addEventListener("click", pageTwo);
 q2a2.addEventListener("click", pageTwo);
 q2a3.addEventListener("click", pageOne);
-q2a4.addEventListener("click", pageTwo);
+q2a4.addEventListener("click", pageOne);
 
-q3a1.addEventListener("click", pageOne);
+q3a1.addEventListener("click", pageTwo);
 q3a2.addEventListener("click", pageTwo);
 q3a3.addEventListener("click", pageOne);
-q3a4.addEventListener("click", pageTwo);
+q3a4.addEventListener("click", pageOne);
 
 
 // This part adds up the score results to either be page 1 or page 2
