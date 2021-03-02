@@ -195,64 +195,96 @@ body {
       padding-left: 8rem;
   }
 
-  @media only screen and (max-width: 411px){
-    body{
+  @media only screen and (max-width: 411px) {
+    body {
       margin: 0.5em;
     }
-
-    .question{
+  
+    .title {
+      padding-left: 3rem;
+    }
+  
+    .statement {
       padding-left: 4rem;
     }
-
-    .answer-choice{
-      width: 22rem;
+  
+    .question {
+      padding-left: 3rem;
     }
-
-    #q1a1{
-      padding-left: 5rem;
+  
+    .answer-choice {
+      width: 20rem;
     }
-
-    #q1a2{
-      padding-left: 5rem;
+  
+    #q1a1 {
+      padding-left: 4rem;
     }
-
-    #q1a3{
-      padding-left: 5rem;
+  
+    #q1a2 {
+      padding-left: 1.4rem;
     }
-
-    #q1a4{
-      padding-left: 5rem;
+  
+    #q1a3 {
+      padding-left: 4rem;
     }
-
-    #q2a1{
-      padding-left: 5rem;
+  
+    #q1a4 {
+      padding-left: 4rem;
     }
-
-    #q2a2{
-      padding-left: 5rem;
+  
+    #q2a1 {
+      padding-right: 6rem;
     }
-
-    #q2a3{
-      padding-left: 5rem;
+  
+    #q2a2 {
+      padding-left: 4rem;
     }
-
-    #q2a4{
-      padding-left: 5rem;
+  
+    #q2a3 {
+      padding-left: 4rem;
     }
-
-    #q3a1{
-      padding-left: 5rem;
+  
+    #q2a4 {
+      padding-left: 4rem;
     }
-
-    #q3a2{
-      padding-left: 5rem;
+  
+    #q3a1 {
+      padding-left: 4rem;
     }
-
-    #q3a3{
-      padding-left: 5rem;
+  
+    #q3a2 {
+      padding-left: 4rem;
     }
-
-    #q3a4{
-      padding-left: 5rem;
+  
+    #q3a3 {
+      padding-left: 4rem;
+    }
+  
+    #q3a4 {
+      padding-left: 4rem;
+    }
+  
+    .result-button {
+      padding-left: 7rem;
+      padding-right: 0rem;
+    }
+  
+    .paragraph {
+      font-size: 1.5rem;
+      font-family: "Baskervville", serif;
+      color: black;
+      width: 23.5rem;
+      padding-left: 2rem;
+      padding-right: 1rem;
+    }
+  
+    .largeText {
+      font-size: 2.5rem;
+    }
+  
+    .italicText {
+      font-style: italic;
+      font-weight: 400;
+      font-size: 2.5rem;
     }
   }
