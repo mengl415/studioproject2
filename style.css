@@ -194,3 +194,65 @@ body {
       width: 60rem;
       padding-left: 8rem;
   }
+
+  @media only screen and (max-width: 411px){
+    body{
+      margin: 0.5em;
+    }
+
+    .question{
+      padding-left: 4rem;
+    }
+
+    .answer-choice{
+      width: 22rem;
+    }
+
+    #q1a1{
+      padding-left: 5rem;
+    }
+
+    #q1a2{
+      padding-left: 5rem;
+    }
+
+    #q1a3{
+      padding-left: 5rem;
+    }
+
+    #q1a4{
+      padding-left: 5rem;
+    }
+
+    #q2a1{
+      padding-left: 5rem;
+    }
+
+    #q2a2{
+      padding-left: 5rem;
+    }
+
+    #q2a3{
+      padding-left: 5rem;
+    }
+
+    #q2a4{
+      padding-left: 5rem;
+    }
+
+    #q3a1{
+      padding-left: 5rem;
+    }
+
+    #q3a2{
+      padding-left: 5rem;
+    }
+
+    #q3a3{
+      padding-left: 5rem;
+    }
+
+    #q3a4{
+      padding-left: 5rem;
+    }
+  }
