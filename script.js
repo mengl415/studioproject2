@@ -33,10 +33,10 @@ q2a2.addEventListener("click", pageTwo);
 q2a3.addEventListener("click", pageOne);
 q2a4.addEventListener("click", pageOne);
 
-q3a1.addEventListener("click", pageTwo);
-q3a2.addEventListener("click", pageTwo);
-q3a3.addEventListener("click", pageOne);
-q3a4.addEventListener("click", pageOne);
+q3a1.addEventListener("click", pageOne);
+q3a2.addEventListener("click", pageOne);
+q3a3.addEventListener("click", pageTwo);
+q3a4.addEventListener("click", pageTwo);
 
 
 // This part adds up the score results to either be page 1 or page 2
